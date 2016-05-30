@@ -1,0 +1,2 @@
+# lncFunNet
+lncRNA functional prediction
